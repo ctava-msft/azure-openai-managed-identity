@@ -1,7 +1,4 @@
 {
-  "cosmosDbAccount": "cosmos",
   "openAiAccount": "openai",
-  "userAssignedIdentity": "ua-id",
-  "appServiceWebApp": "web",
-  "appServicePlan": "plan"
+  "userAssignedIdentity": "ua-id"
 }

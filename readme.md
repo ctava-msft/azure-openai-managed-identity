@@ -15,6 +15,5 @@ Copy sample.env to .env and put the AZURE_OPENAI_ENDPOINT: https://<your_name>.o
 Run the project using the following commands:
 
 ```
-dotnet workload restore --project ./Project.csproj
 dotnet run --project ./Project.csproj
 ```
